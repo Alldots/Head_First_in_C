@@ -1,5 +1,10 @@
-# ignore exe files
+# ignore bin directory
+bin/
+# ignore object files
+*.o
+# ignore executable files
 *.exe
+*.out
 
 # ignore vim swap files
 *~
